@@ -1,0 +1,1 @@
+Esse é um texto para passar para uppercase
